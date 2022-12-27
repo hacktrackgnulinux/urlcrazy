@@ -1,0 +1,2 @@
+gem install json colorize async async-dns async-http
+chmod 775 urlcrazy
